@@ -13,7 +13,7 @@ Slides: _(link do Canva em breve)_
 
 ## Baixar e jogar
 
-O APK para Android está em [**Releases**](https://github.com/raissapatricio/space-hunters/releases). Ele roda em celulares Android 8 ou mais novos, de 64 bits (ARM64). Na instalação, o Android pede para permitir "instalar apps desconhecidos".
+[**⬇ Baixar o APK (Google Drive)**](https://drive.google.com/file/d/1hhid4MLGsJdKa5G9mHUb2ZtS6h0E1L8M/view?usp=sharing) · cerca de 130 MB. Ele roda em celulares Android 8 ou mais novos, de 64 bits (ARM64). Na instalação, o Android pede para permitir "instalar apps desconhecidos".
 
 **Controles:** a metade esquerda da tela é o joystick para andar; arraste na metade direita para mirar e toque rápido para atirar. A partida dura 60 segundos.
 

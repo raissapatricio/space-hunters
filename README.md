@@ -9,7 +9,7 @@ Um jogo feito na **Unity** rodando **dentro** de um app **React Native/Expo**, c
 |---|---|---|
 | ![Menu](docs/img/menu.jpg) | ![Jogo](docs/img/jogo.jpg) | ![Fim de jogo](docs/img/fim-de-jogo.jpg) |
 
-Slides: _(link do Canva em breve)_
+**Slides:** [apresentação no Canva](https://canva.link/n25iv4rfzdqky49)
 
 ## Resumo da biblioteca
 
